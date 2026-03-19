@@ -11,7 +11,7 @@ git checkout -b rama-lider
 ## Integrantes del grupo
 - Estudiante 1 (Lider): [Gabriela Garcia]
 - Estudiante 2: [Luna Castro]
-- Estudiante 3: [Sofia Losano]
+- Estudiante 3: [Sofia Lozano]
 
 ---
 
