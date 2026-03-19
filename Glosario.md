@@ -4,8 +4,7 @@ git checkout -b rama-lider
 ## Glosario Colaborativo de Programacion
 ### Proyecto en equipo - Clase de Programacion
 **Docente:** Henry Ortegon | by Kyrbot.com
-- elemento de lista
-`codigo`
+
 ---
 
 ## Integrantes del grupo
